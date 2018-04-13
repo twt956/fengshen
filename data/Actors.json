@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"哪吒","characterIndex":0,"characterName":"哪吒","classId":1,"equips":[0,0,0,0,0,4,6],"faceIndex":5,"faceName":"哪吒","traits":[],"initialLevel":1,"maxLevel":99,"name":"哪吒","nickname":"喷火仔","note":"","profile":"前世乃火德星君，转世为陈塘关李哪吒"},
+{"id":2,"battlerName":"991","characterIndex":0,"characterName":"991","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"991","traits":[],"initialLevel":1,"maxLevel":99,"name":"莲花","nickname":"小蝴蝶","note":"","profile":"杨戬的妹妹，一直暗恋哪吒"},
+{"id":3,"battlerName":"杨戬","characterIndex":0,"characterName":"杨戬","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"杨戬","traits":[],"initialLevel":1,"maxLevel":99,"name":"杨戬","nickname":"三眼仔","note":"","profile":"天生三只眼，可扫除天下所有妖邪"},
+{"id":4,"battlerName":"雷震子","characterIndex":0,"characterName":"雷震子","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"雷震子","traits":[],"initialLevel":1,"maxLevel":99,"name":"雷震子","nickname":"飞天仔","note":"","profile":"雷暴正神，专劈天下坏人"}
+]

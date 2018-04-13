@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":false,"name":"陈塘关","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":898},
+{"id":2,"expanded":false,"name":"武器屋","order":4,"parentId":1,"scrollX":1092,"scrollY":586},
+{"id":3,"expanded":true,"name":"李府","order":5,"parentId":1,"scrollX":1081.3333333333333,"scrollY":1334},
+{"id":4,"expanded":false,"name":"道具屋","order":2,"parentId":1,"scrollX":1092,"scrollY":586},
+{"id":5,"expanded":false,"name":"旅馆1F","order":3,"parentId":1,"scrollX":1092,"scrollY":586},
+{"id":6,"expanded":false,"name":"垃圾场","order":6,"parentId":3,"scrollX":1092,"scrollY":586},
+{"id":7,"expanded":true,"name":"心魔空间","order":7,"parentId":3,"scrollX":1092,"scrollY":586},
+{"id":8,"expanded":false,"name":"开头剧情","order":8,"parentId":7,"scrollX":1092,"scrollY":586}
+]
